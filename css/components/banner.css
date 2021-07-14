@@ -1,0 +1,29 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  padding: 200px;
+  background-position: center;
+}
+
+.banner div {
+  width: 900px;
+  margin: auto;
+  color: #FFF;
+}
+
+.banner h1 {
+  margin-bottom: 10px;
+}
+
+.banner p {
+  margin-bottom: 35px;
+  color: #B2B3B4;
+  font-size: 20px;
+}
+
+.banner a {
+  color: #FFF;
+  background-color: #1EDD88;
+  padding: 15px 25px;
+  border-radius: 4px;
+}

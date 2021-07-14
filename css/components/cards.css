@@ -1,0 +1,37 @@
+.container {
+  width: 900px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.container h2 {
+  padding: 20px 0;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 240px;
+  background-color: #FFF;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  width: 150px;
+  height: 100px;
+  background-size: cover;
+  padding: 20px 0;
+}
+
+.card h3 {
+  font-size: 16px;
+}
+
+.card p {
+  font-size: 16px;
+  padding: 25px 20px;
+  color: #B2B3B4;
+}

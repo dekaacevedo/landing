@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0;
+  background-color: #2C2B2B;
+  color: #B2B3B4;
+}
+ .links {
+  padding: 15px 0;
+ }
+
+.links i {
+  color: #1EDD88;
+  font-size: 30px;
+  padding: 0 5px;
+}
+
+footer p i {
+  color: #BF1C12;
+}
